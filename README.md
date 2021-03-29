@@ -1,7 +1,6 @@
 # Graphs From Booked Data
 
 Author: Laura Cooper
-Email: CAMDU@warwick.ac.uk
 
 ## Requirements
 
